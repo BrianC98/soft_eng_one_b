@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.github.BrianC98</groupId>
             <artifactId>soft_eng_one_a</artifactId>
-            <version>d50373e223</version>
+            <version>d84fabeaf2</version>
         </dependency>
     </dependencies>
 
